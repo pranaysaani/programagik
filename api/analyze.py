@@ -1,5 +1,3 @@
-# This function is called whenever someone accesses /api/analyze
-
 def handler(request):
     return {
         "statusCode": 200,
